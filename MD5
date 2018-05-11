@@ -1,0 +1,14 @@
+b21e52dfe14d50b87067409593b97445 *DESCRIPTION
+10e5a8854eb64ef8fc749d3d8d2f6f3a *NAMESPACE
+b3b026a46bd21378f2afa4cdfb4e4951 *NEWS.md
+198311f79fa9036fb15cabb433131617 *R/tiobe-index.R
+5d330e6190e8c37dee08a2e0224b1f8a *R/tiobeindexr-package.R
+4943b910159e61bf0df4cb440645887f *R/utils.R
+8d25ff3f6370417dbb454ae89f45cc7f *README.md
+318d0b93a1a493fe8bd1bb7ab0974b03 *man/hall_of_fame.Rd
+d6c5eff4e36c82a8fa07e3ab65937bc2 *man/long_term_history.Rd
+208eafbeea45e4e16b4368290cacdf27 *man/tiobeindexr.Rd
+dd4b550e895cabae52e02ded6936d5b4 *man/top_20.Rd
+77727382f53057c2b60884b962dcfc84 *man/top_50.Rd
+6b9f4969c09510d4a18f94983582f0c9 *tests/test-all.R
+e59d52c6bafde07c0e1842d92435a39a *tests/testthat/test-tiobeindexr.R
