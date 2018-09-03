@@ -1,8 +1,8 @@
 Package: tiobeindexr
 Type: Package
 Title: Extract 'TIOBE' Programming Index Tables for the Latest Month
-Version: 0.1.0
-Date: 2018-05-10
+Version: 0.1.1
+Date: 2018-08-03
 Authors@R: c(
     person("AbdulMajedRaja", "RS", email = "amrrs.data@gmail.com", role = c("aut", "cre"))
   )
@@ -18,9 +18,9 @@ License: AGPL
 Suggests: testthat, dplyr
 Depends: R (>= 3.2.0)
 Imports: rvest, xml2
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0
 NeedsCompilation: no
-Packaged: 2018-05-11 10:53:18 UTC; SA31
+Packaged: 2018-09-03 05:25:52 UTC; abdrs
 Author: AbdulMajedRaja RS [aut, cre]
 Repository: CRAN
-Date/Publication: 2018-05-11 13:08:01 UTC
+Date/Publication: 2018-09-03 05:40:02 UTC

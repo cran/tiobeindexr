@@ -2,7 +2,7 @@
 tiobeindexr
 ===========
 
-[![Build Status](https://travis-ci.org/amrrs/tiobeindexr.svg?branch=master)](https://travis-ci.org/amrrs/tiobeindexr)
+[![Build Status](https://travis-ci.org/amrrs/tiobeindexr.svg?branch=master)](https://travis-ci.org/amrrs/tiobeindexr) [![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/tiobeindexr)](https://cran.r-project.org/package=tiobeindexr) [![DOWNLOADSTOTAL](https://cranlogs.r-pkg.org/badges/grand-total/tiobeindexr)](https://cranlogs.r-pkg.org/badges/grand-total/tiobeindexr)
 
 Description
 -----------
@@ -21,6 +21,14 @@ This R package includes the following functions:
 
 Installation
 ------------
+
+The stable version of `tiobeindexr` can be installed from CRAN:
+
+``` r
+install.packages("tiobeindexr")
+```
+
+And the development version can be installed from github:
 
 ``` r
 devtools::install_github("amrrs/tiobeindexr")
